@@ -1,11 +1,11 @@
 ### 💫About Me :
 
-🔭 I’m currently working on Flutter.
-🌱 I’m currently learning more about Blockchain.
+🔭 I’m currently working on Blockchain.
+🌱 I’m currently learning more about Blockchain with Flutter Integration.
 🤔 I’m looking for help with blockchain documentation.
 💬 Ask me about Flutter or Blockchain.
-📫 How to reach me: Twitter - au4098@gmail.com
-👯 Please Check My Gist For Blockchain.
+📫 How to reach me: gmail - au4098@gmail.com
+👯 Please Check My Gist/github For Blockchain and Flutter.
 ⚡ Fun fact: I spend almost  8 hours for Learning Something New every day.
 
 ## 🌐Socials
