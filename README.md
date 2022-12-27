@@ -1,6 +1,6 @@
 ### 💫About Me :
 
-🔭 I’m currently working on Blockchain.\n
+🔭 I’m currently working on Blockchain.
 🌱 I’m currently learning more about Blockchain with Flutter Integration.
 🤔 I’m looking for help with blockchain documentation.
 💬 Ask me about Flutter or Blockchain.
